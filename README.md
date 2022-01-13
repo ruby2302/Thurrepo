@@ -1,2 +1,7 @@
 # thursrepo
-This is a file about thursrepo
+
+This is a file about thurrepo
+
+<style>
+    fancy always
+    </style>
